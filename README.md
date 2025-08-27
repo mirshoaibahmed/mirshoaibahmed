@@ -8,10 +8,10 @@ Currently, I’m exploring React for frontend and Data Science (ARIMA & Prophet 
 ⸻
 
 🚀 Skills & Technologies
-	•	Languages: JavaScript, Python, Java, C#
+	•	Languages: JavaScript, Python, C++, C#
 	•	Web Development: HTML, CSS, JavaScript, React (basic)
 	•	Backend: Node.js, Express.js, REST API
-	•	Databases: MongoDB, Oracle 11g (triggers, procedures, joins, exception handling)
+	•	Databases: MongoDB, Oracle 11g (triggers, procedures, joins, exception handling),MySQL
 	•	Tools: Git/GitHub, Selenium (testing automation), SRS Documentation
 	•	Others: Data Science basics (time series forecasting with ARIMA & Prophet)
 
@@ -34,9 +34,5 @@ Currently, I’m exploring React for frontend and Data Science (ARIMA & Prophet 
 
 🌐 Connect with Me
 📧 Email: mir.shoaib.ahmed25@gmail.com
-🔗 LinkedIn: [Your LinkedIn Link Here]
-🐙 GitHub: [Your GitHub Link Here
-
-📧 Email: mir.shoaib.ahmed25@gmail.com
-🔗 LinkedIn: [Your LinkedIn Link Here]
-🐙 GitHub: [Your GitHub Link Here]
+🔗 LinkedIn:www.linkedin.com/in/mirshoaibahmed
+🐙 GitHub:www.github.com/mirshoaibahmed
