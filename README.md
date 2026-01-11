@@ -28,7 +28,6 @@ Currently, I’m exploring React for frontend and Data Science (ARIMA & Prophet 
 🎯 Current Focus
 	•	Improving my React and full stack development skills
 	•	Completing my thesis on IT sector growth forecasting of Bangladesh using Python.
-	•	Looking for Internship / Trainee Software Engineer opportunities in Dhaka, Bangladesh
 
 ⸻
 
