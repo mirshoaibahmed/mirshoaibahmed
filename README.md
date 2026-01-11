@@ -22,12 +22,13 @@ Currently, I’m exploring React for frontend and Data Science (ARIMA & Prophet 
 🔹 Blood Donation Management System – Node.js, Express.js, MongoDB Atlas, Selenium
 🔹 Birth Record Management System – Node.js, Express.js, Oracle 11g
 🔹 SRS Documents – Prepared for course work
+🔹 Thesis on IT sector growth forecasting of Bangladesh(Completed)
 
 ⸻
 
 🎯 Current Focus
 	•	Improving my React and full stack development skills
-	•	Completing my thesis on IT sector growth forecasting of Bangladesh using Python.
+	•	Learning Django
 
 ⸻
 
