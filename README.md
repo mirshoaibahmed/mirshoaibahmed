@@ -1,19 +1,27 @@
 👋 Hi, I’m Mir Shoaib Ahmed
 
-🎓 Fresh Computer Science Graduate (AIUB, 2025) | 💻 Aspiring Backend & Full Stack Developer
+🎓 Computer Science Graduate (AIUB, 2026)
+🧪 QA & Support Engineer at EWN Bangladesh
 
-I enjoy building real-world applications using Node.js, Express.js, MongoDB, and Oracle 11g.
-Currently, I’m exploring React for frontend and Data Science (ARIMA & Prophet models) for my thesis project.
+I am a Computer Science graduate currently working as a QA & Support Engineer at EWN Bangladesh. My role focuses on ensuring software quality, monitoring application issues, and supporting smooth production operations through systematic testing and debugging.
 
-⸻
+I work closely with development and product teams to identify bugs, reproduce issues, and improve overall user experience using real user behavior insights and API testing.
 
-🚀 Skills & Technologies
-	•	Languages: JavaScript, Python, C++, C#
-	•	Web Development: HTML, CSS, JavaScript, React (basic)
-	•	Backend: Node.js, Express.js, REST API
-	•	Databases: MongoDB, Oracle 11g (triggers, procedures, joins, exception handling),MySQL
-	•	Tools: Git/GitHub, Selenium (testing automation), SRS Documentation
-	•	Others: Data Science basics (time series forecasting with ARIMA & Prophet)
+🚀 Skills & Tools
+
+QA & Testing: Manual Testing, Bug Reporting, Test Case Design, Regression Testing
+Monitoring & Analytics: UXCam, Sentry
+API Testing: Postman
+Programming: JavaScript, Python, C++, C#
+Backend (Previous Experience): Node.js, Express.js, REST APIs
+Databases: MongoDB, Oracle 11g, MySQL
+Tools: Git/GitHub, Selenium, SRS Documentation
+
+🎯 Current Focus
+
+Improving QA automation and testing strategies
+Deepening knowledge in API testing and production monitoring tools
+Strengthening backend and system understanding
 
 ⸻
 
@@ -23,12 +31,6 @@ Currently, I’m exploring React for frontend and Data Science (ARIMA & Prophet 
 🔹 Birth Record Management System – Node.js, Express.js, Oracle 11g
 🔹 SRS Documents – Prepared for course work
 🔹 Thesis on IT sector growth forecasting of Bangladesh(Completed)
-
-⸻
-
-🎯 Current Focus
-	•	Improving my React and full stack development skills
-	•	Learning Django
 
 ⸻
 
